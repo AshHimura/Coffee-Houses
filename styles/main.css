@@ -1,0 +1,15 @@
+.shop {
+    border: 1px dashed darkviolet;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.pageHeader{
+    text-align: center;
+}
